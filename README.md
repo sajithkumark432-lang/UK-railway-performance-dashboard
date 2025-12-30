@@ -46,6 +46,3 @@ and service reliability.
 - Peak travel demand is observed during morning and evening hours.
 
 ---
-
-
-## 📂 Project Structure
