@@ -54,3 +54,6 @@ and service reliability.
 ---
 #### Overall, the analysis identifies clear opportunities to improve operational efficiency, optimize pricing strategies, and enhance passenger experience by focusing on peak-hour demand, staffing optimization, and high volume routes.
 ---
+
+<img width="1304" height="708" alt="Full_dashboard image" src="https://github.com/user-attachments/assets/8f405602-d79b-4c74-a594-df28a7709930" />
+
